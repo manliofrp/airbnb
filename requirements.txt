@@ -3,5 +3,3 @@ pandas
 altair
 numpy
 matplotlib
-plotly
-pyplot
